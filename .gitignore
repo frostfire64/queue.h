@@ -15,3 +15,7 @@
 *.exe
 *.out
 *.app
+
+#Code::Blocks build folders.
+bin/*
+obj/*

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1373554354 source:c:\users\samsung\dropbox\projektyc\queue.h\queue.c
+	"queue.h"
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+
+1373554354 c:\users\samsung\dropbox\projektyc\queue.h\queue.h
+	<stdbool.h>
+
+1375125893 source:c:\users\samsung\dropbox\projektyc\queue.h\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"queue.h"
+
